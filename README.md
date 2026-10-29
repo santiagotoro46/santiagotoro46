@@ -24,18 +24,6 @@ Me gusta construir cosas en la web y aprender algo nuevo cada tanto.
 
 ---
 
-### 📊 Un poco de números
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santiagotoro46&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagotoro46&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📬 Contacto
 
 📧 santiagotoro4621@gmail.com
